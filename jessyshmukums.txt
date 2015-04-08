@@ -1,0 +1,21 @@
+git clone = initializes a git repository in the local machine or 
+environment as a copy of the original remote repository. 
+ 
+git add = moves a file in the local directory that has been 
+created or modified into the staging area where it will be 
+collected for a move to the tracking area. 
+
+git commit = moves files in the staging environment to the tracking area 
+with information on who, what, and why the files were created to prepare 
+it for pushing to the shared, remote original branch. 
+
+git push = moves files that have been committed to the remote repository 
+for others to see, clone, and then modify locally. 
+
+remote repository = A shared communal set of files that are 
+tracked, downloaded, and updated by a group of people.
+
+local repository = a copy of a remote repository where an individual can 
+create or modify copies of the files that were originally in a remote 
+repository. Here they can make changes then push them into the remote 
+repository where they can be tracked, and used by others. 
